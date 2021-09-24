@@ -1,0 +1,10 @@
+C:\Users\eodud\source\repos\PseverForm\PseverForm\bin\Debug\PseverForm.exe.config
+C:\Users\eodud\source\repos\PseverForm\PseverForm\bin\Debug\PseverForm.exe
+C:\Users\eodud\source\repos\PseverForm\PseverForm\bin\Debug\PseverForm.pdb
+C:\Users\eodud\source\repos\PseverForm\PseverForm\obj\Debug\PseverForm.Properties.Resources.resources
+C:\Users\eodud\source\repos\PseverForm\PseverForm\obj\Debug\PseverForm.csproj.GenerateResource.cache
+C:\Users\eodud\source\repos\PseverForm\PseverForm\obj\Debug\PseverForm.csproj.CoreCompileInputs.cache
+C:\Users\eodud\source\repos\PseverForm\PseverForm\obj\Debug\PseverForm.exe
+C:\Users\eodud\source\repos\PseverForm\PseverForm\obj\Debug\PseverForm.pdb
+C:\Users\eodud\source\repos\PseverForm\PseverForm\obj\Debug\PseverForm.Form2.resources
+C:\Users\eodud\source\repos\PseverForm\PseverForm\obj\Debug\PseverForm.csprojAssemblyReference.cache
